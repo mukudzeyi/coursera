@@ -1,0 +1,16 @@
+if (Recency_RR_Curr <= 3.5) and (BALANCE_CURR <= 2752123.375) and (Client Age <= 52.5) then class: 0 (proba: 97.62%) | based on 45,721 samples
+
+if (Recency_RR_Curr > 3.5) and (Recency_RR_Curr > 9.5) and (CapitalDisbursed <= 24792500.0) then class: 0 (proba: 99.92%) | based on 39,625 samples
+
+if (Recency_RR_Curr <= 3.5) and (BALANCE_CURR > 2752123.375) and (Originations Channel <= 1.5) then class: 0 (proba: 93.88%) | based on 21,244 samples
+
+if (Recency_RR_Curr <= 3.5) and (BALANCE_CURR > 2752123.375) and (Originations Channel > 1.5) then class: 0 (proba: 96.68%) | based on 18,000 samples
+
+if (Recency_RR_Curr <= 3.5) and (BALANCE_CURR <= 2752123.375) and (Client Age > 52.5) then class: 0 (proba: 99.48%) | based on 11,387 samples
+
+if (Recency_RR_Curr > 3.5) and (Recency_RR_Curr <= 9.5) and (BALANCE_2_CAPITAL <= 1.611) then class: 0 (proba: 97.95%) | based on 5,065 samples
+
+if (Recency_RR_Curr > 3.5) and (Recency_RR_Curr <= 9.5) and (BALANCE_2_CAPITAL > 1.611) then class: 0 (proba: 99.39%) | based on 2,773 samples
+
+if (Recency_RR_Curr > 3.5) and (Recency_RR_Curr > 9.5) and (CapitalDisbursed > 24792500.0) then class: 0 (proba: 75.0%) | based on 8 samples
+

@@ -1,0 +1,24 @@
+feature,shap_importance
+Recency_RR_Curr,0.012262707839421542
+BALANCE_CURR,0.009659454452216118
+Originations Channel,0.0037279753606772707
+Client Age,0.002692657638710369
+BALANCE_2_CAPITAL,0.00030077931344870925
+CapitalDisbursed,1.3820229312508082e-05
+CAPITAL,0.0
+Client Retention,0.0
+Account Type,0.0
+Customer Lifetime On Book,0.0
+Client Type Breakdown,0.0
+Consolidation Loan,0.0
+Gender,0.0
+Max Client Retention Bucket,0.0
+Mapped_Branch_Description,0.0
+New vs Refinancing,0.0
+Region,0.0
+BranchLocation,0.0
+Term,0.0
+ISSUEDCASH_2_CAPITAL,0.0
+TERM_CHURN,0.0
+MOB,0.0
+TotalActiveLoans,0.0
